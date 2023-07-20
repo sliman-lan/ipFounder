@@ -44,5 +44,5 @@ Javascript, HTML, CSS...
 
 ## Screenshots
 
-![App Screenshot](Screenshot (10).png)
+![App Screenshot](https://github.com/sliman-lan/ipFounder/blob/6480a4a46dd03767620054ff0347228ca0111f9a/Screenshot%20(10).png)
 
