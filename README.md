@@ -44,5 +44,5 @@ Javascript, HTML, CSS...
 
 ## Screenshots
 
-![App Screenshot](./screenshot(10).png)
+![App Screenshot](./Screenshot (10).png)
 
